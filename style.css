@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: rgb(19, 18, 18);
+    margin-bottom: 5px;
+    display: flex;
+
+}
+
+.header p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 14%;
+    color: rgb(241, 235, 235);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.search_section {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 70px;
+}
+
+.button {
+    background-color: #03A413;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    border-radius: 5px;
+    color: #DBFBDE;
+}
+
+.banner_section {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-bottom: 100px;
+
+}
+
+.get_button {
+    background-color: #03A413;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 4px;
+    color: #DBFBDE;
+    margin-right: 14px;
+}
+
+.trial_button {
+    background-color: #E3EFFF;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 4px;
+    color: #03A413;
+}
+
+.welcome_section {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-bottom: 100px;
+
+}
+
+.discover_button {
+    background-color: #03A413;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border: none;
+    border-radius: 2px;
+    color: #DBFBDE;
+    margin-right: 14px;
+}
+
+.explore_button {
+    background-color: #2F2E2E;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border: none;
+    border-radius: 1px;
+    color: #e9eeea;
+}
+
+.explore_button_2 {
+    background-color: #2F2E2E;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 110px;
+    padding-right: 110px;
+    border: none;
+    border-radius: 1px;
+    color: #e9eeea;
+}
